@@ -44,18 +44,38 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 <details>
   <summary><code>Frontend</code></summary>
+
+  - ⭐ **[Hello-Pangea DnD](https://github.com/hello-pangea/dnd)** 🌟  
+  - ⭐ **[Shadcn](https://ui.shadcn.com/docs)** 💎  
+  - ⭐ **[Shadcn Sonner](https://ui.shadcn.com/docs/components/sonner)** 🛎  
+  - ⭐ **[Shadcn React Hook Form](https://ui.shadcn.com/docs/components/react-hook-form)** 📋  
+  - ⭐ **[React Hook Form](https://react-hook-form.com/get-started)** 🎯  
+  - ⭐ **[Zod](https://zod.dev/?id=table-of-contents)** ✅  
+  - ⭐ **[Redux Toolkit](https://redux-toolkit.js.org/)** 🚀  
+  - ⭐ **[Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)** 🔄  
+  - ⭐ **[React Filepond](https://github.com/pqina/react-filepond)** 📂  
+  - ⭐ **[React Player](https://github.com/cookpete/react-player)** 🎥  
+  - ⭐ **[Stripe Documentation](https://docs.stripe.com/get-started)** 💳  
+  - ⭐ **[Stripe GitHub](https://github.com/stripe/react-stripe-js)** 🛒  
+
 </details>
 
 <details>
   <summary><code>Backend</code></summary>
+
+  - ⭐ **[Local DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)** 🗄  
+  - ⭐ **[NoSQL Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)** 🛠  
+  - ⭐ **[Postman](https://www.postman.com/downloads/)** 🌐  
+  - ⭐ **[Dynamoose](https://dynamoosejs.com/guide/Dynamoose)** ⚡  
+  - ⭐ **[AWS Free Tier](https://aws.amazon.com/free/)** 💸  
+  - ⭐ **[AWS S3](https://aws.amazon.com/s3/)** 📦  
+  - ⭐ **[AWS CloudFront](https://aws.amazon.com/cloudfront/)** 🌍  
+  - ⭐ **[AWS ECR](https://aws.amazon.com/ecr/)** 🐳  
+  - ⭐ **[Docker](https://www.docker.com/)** 🏗  
+
 </details>
 
-- React 19
-- Next.js 15
-- Appwrite
-- TailwindCSS
-- ShadCN
-- TypeScript
+
 
 ## <a name="features">🔋 Features</a>
 
