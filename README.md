@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon&logoColor=FF9900&color=232F3E" alt="AWS" />
+    <img src="https://img.shields.io/badge/-Stripe-white?style=for-the-badge&logo=stripe&logoColor=008CDD&color=6264A7" alt="Stripe" />
 
 
   </div>
@@ -30,7 +31,13 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
+Built an enterprise-grade, full-stack Learning Management Application using modern web technologies and AWS services.
+• Supports instructors and students with distinct permissions and dashboards, using Clerk for secure user login and role-based access control.
+• Allows instructors to create, update, and manage courses, including videos, documents
+• Provides students with real-time tracking of their course progress, with progress marked as complete by default when 80% of the video is played.
+• Implements real-time email and in-app notifications for deadlines, announcements, and updates
+• Facilitates secure course purchase and subscription options using Stripe.
+• Offers insights for instructors and admins, including student performance and engagement metrics.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community. It's a place where people help each other out.
 
