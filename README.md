@@ -42,6 +42,14 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+<details>
+  <summary><code>Frontend</code></summary>
+</details>
+
+<details>
+  <summary><code>Backend</code></summary>
+</details>
+
 - React 19
 - Next.js 15
 - Appwrite
@@ -53,7 +61,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **User Authentication with Clerk**: Securely implement signup, login, and logout functionality with role-based access control for instructors and students.
 
-👉** Course Management**: Instructors can effortlessly create, update, and manage courses, including video lectures, documents, and resources.
+👉**Course Management**: Instructors can effortlessly create, update, and manage courses, including video lectures, documents, and resources.
 
 👉 **Real-Time Progress Tracking**: Students can track their course progress in real-time, with lessons automatically marked as complete when 80% of the video is played.
 
