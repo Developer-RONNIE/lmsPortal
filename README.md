@@ -8,9 +8,12 @@
   <div>
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon&logoColor=FF9900&color=232F3E" alt="AWS" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Stripe-white?style=for-the-badge&logo=stripe&logoColor=008CDD&color=6264A7" alt="Stripe" />
+    <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED&color=232F3E" alt="Docker" />
+
+
 
 
   </div>
@@ -31,13 +34,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built an enterprise-grade, full-stack Learning Management Application using modern web technologies and AWS services.
-• Supports instructors and students with distinct permissions and dashboards, using Clerk for secure user login and role-based access control.
-• Allows instructors to create, update, and manage courses, including videos, documents
-• Provides students with real-time tracking of their course progress, with progress marked as complete by default when 80% of the video is played.
-• Implements real-time email and in-app notifications for deadlines, announcements, and updates
-• Facilitates secure course purchase and subscription options using Stripe.
-• Offers insights for instructors and admins, including student performance and engagement metrics.
+An enterprise-grade, full-stack Learning Management Application built using modern web technologies and AWS services. This application streamlines learning experiences for both instructors and students through robust features and seamless functionality.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community. It's a place where people help each other out.
 
@@ -54,25 +51,27 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
+👉 User Authentication with Clerk: Securely implement signup, login, and logout functionality with role-based access control for instructors and students.
 
-👉 **FIle Uploads**: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
+👉 Course Management: Instructors can effortlessly create, update, and manage courses, including video lectures, documents, and resources.
 
-👉 **View and Manage Files**: Users can browse through their uploaded files stored in Appwrite storage, view on a new tab, rename file or delete.
+👉 Real-Time Progress Tracking: Students can track their course progress in real-time, with lessons automatically marked as complete when 80% of the video is played.
 
-👉 **Download Files**: Users can download their uploaded files giving them instant access to essential documents.
+👉 Notifications: Stay updated with real-time email and in-app notifications for course deadlines, announcements, and updates.
 
-👉 **File Sharing**: Users can easily share their uploaded files with others, enabling collaboration and easy access to important content.
+👉 Secure Payments: Easily purchase and subscribe to courses through secure integration with Stripe.
 
-👉 **Dashboard**: Gain insights at a glance with a dynamic dashboard that showcases total and consumed storage, recent uploads, and a summary of files grouped by type.
+👉 Insights and Metrics: Admins and instructors can access detailed performance and engagement metrics for students and courses.
 
-👉 **Global Search**: Users can quickly find files and shared content across the platform with a robust global search feature.
+👉 File Management for Learning: Upload, view, manage, and share supplementary course files securely with dynamic dashboards.
 
-👉 **Sorting Options**: Organize files efficiently by sorting them by date, name, or size, making file management a breeze.
+👉 Dynamic Dashboards: Personalized dashboards for instructors and students, showcasing key data points like progress, metrics, and recent activities.
 
-👉 **Modern Responsive Design**: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
+👉 Modern Responsive Design: A clean, minimalist UI with responsive design ensures usability and a seamless experience across all devices.
 
-and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
+👉 Global Search and Sorting Options: Find content quickly and organize course files or data efficiently by name, date, or type.
+
+and many more, including the latest **React 19**, **Next.js 15** and **AWS** features alongside code architecture and
 reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
